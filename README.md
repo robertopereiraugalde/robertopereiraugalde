@@ -1,25 +1,24 @@
-![Roberto Pereira Ugalde](./assets/profile-header.svg)
+<h1 align="center">Roberto Pereira Ugalde</h1>
 
 <p align="center">
-  <a href="https://nous.cr">NOUS</a>
-  ·
-  <a href="https://robertopereiraugalde.com">robertopereiraugalde.com</a>
-  ·
-  San Jose, Costa Rica
+  <em>Building a more intelligent world.</em>
+</p>
+
+<p align="center">
+  Founder, NOUS · San Jose, Costa Rica
 </p>
 
 <br>
 
-## I build systems for intelligence.
+Software made work digital.
 
-I am the founder of **NOUS**, an AI company built around a simple belief:
+AI will make work intelligent.
 
-> The future will belong to organizations that learn faster, decide better, and turn intelligence into daily practice.
+I am building **NOUS** for that transition.
 
-Most companies will not be transformed by more software.<br>
-They will be transformed by clearer thinking, better workflows, trusted automation, and systems that help people do the best work of their lives.
+Not more tools. Not louder dashboards. Not artificial intelligence as decoration.
 
-That is what I am building.
+Intelligence that becomes part of how an organization thinks, decides, serves, and learns.
 
 <br>
 
@@ -27,32 +26,40 @@ That is what I am building.
 
 NOUS helps organizations move from AI experimentation to intelligent operations.
 
-Strategy becomes systems.<br>
-Systems become habits.<br>
-Habits become culture.
+We begin with one question:
+
+> What should this organization be able to do that it cannot do today?
+
+Then we design the smallest real system that makes that capability visible.
 
 <br>
 
-## Principles
+## Taste
 
-- Simplicity is intelligence made usable.
-- Taste matters because people trust what feels clear.
-- AI should make organizations more human, not less.
-- The first useful deployment is more valuable than the perfect plan.
-- Real transformation compounds quietly.
+Clarity before scale.
+
+Judgment before automation.
+
+Trust before speed.
+
+Systems before tools.
+
+Usefulness before spectacle.
 
 <br>
 
-## Current Work
+## Now
 
 Building NOUS in Costa Rica and LatAm.
 
-Designing intelligent customer interfaces, agentic workflows, and operational systems that help companies think, serve, and execute with greater clarity.
+Designing intelligent interfaces, agentic workflows, and operating systems for useful AI adoption.
 
-Writing and building in public where the work can be shared.
+Writing only when the idea is clear enough to deserve words.
 
 <br>
 
 <p align="center">
-  <strong>Building a more intelligent world.</strong>
+  <a href="https://nous.cr">nous.cr</a>
+  ·
+  <a href="https://robertopereiraugalde.com">robertopereiraugalde.com</a>
 </p>
